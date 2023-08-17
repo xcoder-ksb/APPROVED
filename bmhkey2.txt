@@ -48,10 +48,10 @@ BMH✓1•0•2•7•3•u•0•_•a•2•7•3 ME
 
 BMH✓1•0•3•3•8•u•0•_•a•3•3•8 1months user 9.8.2023 start
 
-BMH✓1•0•4•8•7•u•0•_•a•4•8•7 11day8.2023 start 9:44 name TZO
+BMH✓1•0•4•8•7•u•0•_•a•4•8•7 15 day user11day8.2023 start 9:44 name TZO
 
-BMH✓1•0•7•4•9•u•0•_•a•7•4•9 11day8.2023 start 10:00 name TZO
+BMH✓1•0•7•4•9•u•0•_•a•7•4•9 1 months user 11day8.2023 start 10:00 name TZO
 
-BMH✓1•0•2•0•4•u•0•_•a•2•0•4 11day8.2023 start 12:00 name ZKT
+BMH✓1•0•2•0•4•u•0•_•a•2•0•4 15 day user 11day8.2023 start 12:00 name ZKT
 
-BMH✓1•0•2•5•1•u•0•_•a•2•5•1 11day8.2023 start 12:00 name AZT
+BMH✓1•0•2•5•1•u•0•_•a•2•5•1 1months user 11day8.2023 start 12:00 name AZT
